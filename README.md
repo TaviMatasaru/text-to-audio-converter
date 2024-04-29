@@ -1,4 +1,4 @@
-# Text-to-Speech Conversion Project Documentation
+# Text-to-Speech Conversion Project
 
 ## Overview
 

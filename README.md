@@ -44,3 +44,8 @@ To run the project, execute the `main.py` script after navigating to the project
 
 ```bash
 python main.py
+
+
+## GUI
+
+![App GUI](images/gui.png)

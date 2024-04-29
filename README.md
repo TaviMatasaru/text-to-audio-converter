@@ -1,7 +1,5 @@
 # Project Documentation: Alarm System Using Arduino
 
-**Project by Matasaru Tavi-Cristian, Group 3E4, Academic Year 2023-2024**
-
 ## 1. Introduction
 
 ### 1.1 Motivation for Choosing the Project
